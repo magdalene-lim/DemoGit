@@ -3,7 +3,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello World! Today is a happy day!");
+		System.out.println("Hello World! Today Friday!");
 
 		//Change A
 
